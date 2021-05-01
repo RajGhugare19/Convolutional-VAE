@@ -6,7 +6,7 @@ Steps to get this working
 1) Create a folder `saved_models` to save the models at every checkpoints.
 
 
-### Original image:
+### Original image (normalised):
 
 ![](images/og.png)
 
